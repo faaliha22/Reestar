@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.card{
+    background-color: white;
+    color: black;
+    width: 200px;
+    border: none;
+    border: solid black 3px;
+    display: inline-block;
+    height: 400px;
+    margin-bottom:10px;
+}
+
+.button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 3px;
+    border: none;
+    border: solid lightgreen 2px;
+    height: 40px;
+    width: 50%;
+}
+
+.card-img{
+    width:100%;
+    height:280px;
+   object-fit: cover;
+}
+
+.card-desc{
+    padding: 10px;
+    text-align: center;
+}
+.card-order{
+    text-align: center;
+}
+
+.section-two{
+    text-align: center;
+    padding-top: 10px;
+   
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.section-one__desc{
+    color:grey;
+    padding: 4px;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+}
+
+.section-one__title{
+    color:white;
+    padding: 20px 0 0 0;
+   
+    margin-top: 5px;
+ 
+}
+
+.section-three{
+    background-color:black;
+    color: white;
+}
+
+.section-three__title{
+    text-align: center;
+}
+.section-three__desc input{
+    text-align: left;
+    padding:3px;
+    border: none;
+    margin-left:10px;
+    margin-right:10px;
+    height: 30px;
+    width: 270px;
+    border-radius:2px;
+    color:grey;
+    margin-bottom: 4px;
+}
+.section-three__table{
+    margin: 0 auto;
+    
+}
+
+
+.section-three__submit{
+    background-color: gold;
+    border: none; 
+    width: 45%;
+    height: 30px;
+    padding: 5px;
+    background-color: gold;
+    color: black;
+    border-radius: 2px;
+
+}
+
+.section-three__topic{
+    padding-top: 10px;
+}
